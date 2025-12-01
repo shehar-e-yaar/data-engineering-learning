@@ -1,0 +1,5 @@
+name,city,sales,bonus,category,city_code
+Ali,Lahore,200,20.0,Low,LHR
+Sara,Karachi,150,15.0,Low,KHI
+Hamza,Lahore,300,30.0,High,LHR
+Ayesha,Multan,100,10.0,Low,MLT
